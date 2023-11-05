@@ -11,7 +11,6 @@
 #   end
 
 Product.delete_all
-
 Product.create!(title: 'CoffeeScript',
                 description:
     %(<p>
